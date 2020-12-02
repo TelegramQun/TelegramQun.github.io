@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Globien Wiki Dictionary",
-        href: "https://github.com/globien/globien.github.io/wiki"
+        title: "Ark Invest",
+        href: "https://ark-invest.com/"
     }
 	# ,{
  #        title: "Globien Community",
