@@ -2,7 +2,7 @@
 title: Value Invest
 SEOTitle: Value Invest
 header-img: img/post-bg-desk.jpg
-email: zhaotongbeyond@gmail.com
+# email: zhaotongbeyond@gmail.com
 description: "We Invest Solely In Disruptive Innovation. For investors seeking long-term growth in the public markets."
 keyword: "Value Invest, Ark Invest, Catherine Wood, BRK.A, BRK.B, Warren Buffett, Berkshire Hathaway, Charlie Munger"
 url: "https://ark-invest.github.io"          # your host, for absolute URL
@@ -20,7 +20,7 @@ sidebar-avatar: /img/ValueInvest.png      # use absolute URL, seeing it's used i
 RSS: false
 # weibo_username:     Value Invest
 # zhihu_username:     Value Invest
-github_username:      ValueInvest
+# github_username:      ValueInvest
 # facebook_username:  Value Invest
 # jianshu_username:   Value Invest
 # twitter_username:   Value Invest
