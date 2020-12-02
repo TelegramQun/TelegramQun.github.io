@@ -1,13 +1,13 @@
 # Site settings
-title: Globien Interlingu
-SEOTitle: Globien - Makes Communication Easier
+title: Ark Invest Follower
+SEOTitle: We Invest Solely In Disruptive Innovation
 header-img: img/post-bg-desk.jpg
-email: globien@outlook.com
+email: zhaotongbeyond@gmail.com
 description: "Easy to learn, no more hard work to recite vocabulary."
 keyword: "Constructed Language, Ligua Franca, Interlingua, Globien"
-url: "https://globien.github.io"          # your host, for absolute URL
+url: "https://ark-invest.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/globien/globien.github.io.git" # you code repository
+github_repo: "https://github.com/ark-invest" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-# zhihu_username:     qiubaiying
-github_username:      globien
-# facebook_username:  baiying.qiu.7
+# weibo_username:     ark invest
+# zhihu_username:     ark invest
+github_username:      ark-invest
+# facebook_username:  ark invest
 # jianshu_username:   e71990ada2fd
-# twitter_username:   qiubaiying
+# twitter_username:   ark invest
 
 
 
@@ -57,17 +57,17 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: ark invest
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 6a11cab9f46fe57e56a1                            #生成的clientID
-  clientSecret: 27ac9ec88d1ecd4c819f7423c95b4ca66e54156a    #生成的clientSecret
-  repo:  globien.github.io    #仓库名称
-  owner: globien    #github用户名
-  admin: globien
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+#  enable: true    #是否开启Gitalk评论
+#  clientID: 6a11cab9f46fe57e56a1                            #生成的clientID
+#  clientSecret: 27ac9ec88d1ecd4c819f7423c95b4ca66e54156a    #生成的clientSecret
+#  repo:  globien.github.io    #仓库名称
+#  owner: globien    #github用户名
+#  admin: globien
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
