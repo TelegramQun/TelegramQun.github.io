@@ -66,7 +66,7 @@ gitalk:
  clientSecret: 485e283a919c3e73367b4211f7a5e9fd87672640    #生成的clientSecret
  repo:  ValueInvest.github.io    #仓库名称
  owner: ValueInvest    #github用户名
- admin:
+ admin: ValueInvest
  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
