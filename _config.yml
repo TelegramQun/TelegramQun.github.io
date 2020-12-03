@@ -64,7 +64,7 @@ gitalk:
  enable: true    #是否开启Gitalk评论
  clientID: Iv1.9e690791de79ed3b                            #生成的clientID
  clientSecret: 6ac5d0d540d8e109988b04aebc121e9bcaebd080    #生成的clientSecret
- repo:  ValueInvest.github.io    #仓库名称
+ repo:  https://valueinvest.github.io    #仓库名称
  owner: ValueInvest    #github用户名
  admin: ValueInvest
  distractionFreeMode: true #是否启用类似FB的阴影遮罩
