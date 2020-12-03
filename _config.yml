@@ -63,7 +63,7 @@ kramdown:
 gitalk:
  enable: true    #是否开启Gitalk评论
  clientID: Iv1.9e690791de79ed3b                            #生成的clientID
- clientSecret: 485e283a919c3e73367b4211f7a5e9fd87672640    #生成的clientSecret
+ clientSecret: 6ac5d0d540d8e109988b04aebc121e9bcaebd080    #生成的clientSecret
  repo:  ValueInvest.github.io    #仓库名称
  owner: ValueInvest    #github用户名
  admin: ValueInvest
