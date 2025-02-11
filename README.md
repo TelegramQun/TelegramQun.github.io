@@ -1,23 +1,24 @@
-Welcome to Globien Project！
+<!--
+ * @Description:
+ * @telegram: @fuwangpan
+-->
+## 声明
+<center>
+<a href="https://www.fuwp.com" target="_blank">
+    <img src="https://i.imgur.com/eRsTwhy.png" alt="FUWP.COM 富网盘">
+</a>
 
-格罗比言·全球语 (Globien) 是新一代人造国际语。她传承世界语 (Esperanto) 精神，融合中、英、法三大语言，更加简单易学，是更有效的国际沟通桥梁。
+【电报推荐】精选 10,000+ 高质量 Telegram 群组、频道及机器人，助您轻松探索 Telegram 世界！
 
-格罗比言官网 (https://globien.github.io) 由本项目支撑。
+⚠️ 重要声明 ⚠️
 
-### 您可以 ——
+❗️❗️❗️本文内容严禁在 🇨🇳 中国大陆使用，如有违规，责任自负。❗️❗️❗️ <br/>
+❗️❗️❗️所有频道及群组信息均来源于网络，真实性未经核实，若有侵权请联系我们删除。❗️❗️❗️<br/>
+❗️❗️❗️部分内容可能包含 📢 广告信息，请务必 自行甄别，妥善管理您的👛 资金，避免风险。本平台概不负责任何损失。❗️❗️❗️<br/>
 
-1. 为完善格罗比言提供建议。
-2. 为格罗比言的发展普及提供建议和帮助。
-3. 发表合适的博客（请在_posts目录下创建新的帖子，文件名和内容格式参考已有帖子）。
-4. 共同完善格罗比言Wiki词典（请点击本页目录的“Wiki"标签）。
-5. 帮助美化、完善本网站。
+</center>
 
-### 致谢
-
-1. 这个模板是从这里 [BY](https://github.com/qiubaiying/qiubaiying.github.io) fork 的, 感谢作者BY。 
-2. BY的模板应该是从这个模板 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 也一起感谢一下。
-3. 感谢 Jekyll、Github Pages 和 Bootstrap!
-
-### License
-
-MIT License, please refer to [LICENSE](https://github.com/globien/globien.github.io/blob/master/LICENSE).
+<!-- BEGIN_REPLACE_SECTION -->
+|[![@极搜JiSou](https://i.imgur.com/9i69p4C.jpeg)<br>@极搜JiSou](https://t.me/jisou2bot?start=a_1023712789) |  [![@SOSO-搜搜更懂你](https://i.imgur.com/SKGPMhC.jpeg)<br>@SOSO-搜搜更懂你](https://t.me/soso?start=a_1023712789)|[![@极搜JiSo](https://i.imgur.com/W39S4Mc.jpeg)<br>@极搜JiSo](https://t.me/jisou2bot?start=a_1023712789) |
+|:-------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|:---:|
+<!-- END_REPLACE_SECTION -->
