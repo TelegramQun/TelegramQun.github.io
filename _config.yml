@@ -1,13 +1,12 @@
 # Site settings
-title: Value Invest
-SEOTitle: Value Invest
+title: Telegram 热门群组
+SEOTitle: 2025年最佳Telegram热门群组大全，优质免费电报群资源、技术、知识推荐！
 header-img: img/post-bg-desk.jpg
-# email: zhaotongbeyond@gmail.com
-description: "We Invest Solely In Disruptive Innovation. For investors seeking long-term growth in the public markets."
+description: "2025年最佳Telegram热门群组大全，优质免费电报群资源、技术、知识推荐！"
 keyword: "Value Invest, Ark Invest, Catherine Wood, BRK.A, BRK.B, Warren Buffett, Berkshire Hathaway, Charlie Munger"
-url: "https://ark-invest.github.io"          # your host, for absolute URL
+url: "TelegramQun.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/ValueInvest" # you code repository
+github_repo: "https://telegramqun.github.io/" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -41,7 +40,10 @@ anchorjs: true                          # if you want to customize anchor. check
 # from PR#40, to support local preview for Jekyll 3.0
 gems: [jekyll-paginate]
 
-
+plugins:
+  - jekyll-paginate
+paginate: 5   # 每页显示 5 篇文章（可以修改）
+paginate_path: "/page:num/"  # 分页 URL 规则
 
 
 # Markdown settings
@@ -99,8 +101,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Ark Invest",
-        href: "https://ark-invest.com/"
+        title: "Telegram 热门群组",
+        href: "https://telegramqun.github.io/"
     }
 	# ,{
  #        title: "Globien Community",
