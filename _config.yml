@@ -3,14 +3,14 @@ title: Telegram 热门群组
 SEOTitle: 2025年最佳Telegram热门群组大全，优质免费电报群资源、技术、知识推荐！
 header-img: img/post-bg-desk.jpg
 description: "2025年最佳Telegram热门群组大全，优质免费电报群资源、技术、知识推荐！"
-keyword: "Value Invest, Ark Invest, Catherine Wood, BRK.A, BRK.B, Warren Buffett, Berkshire Hathaway, Charlie Munger"
+keyword: "Telegram群组, Telegram群, Telegram群组推荐, Telegram群组大全, Telegram聊天群, Telegram群组链接, Telegram社区, Telegram兴趣群, Telegram公开群组, Telegram社交群, Telegram学习群, Telegram讨论群, Telegram交友群, Telegram资源群, Telegram免费群组, Telegram热门群组, Telegram群组分享, Telegram群组导航, Telegram群组加入, Telegram群组搜索, Telegram官方群, Telegram游戏群, Telegram电影群, Telegram音乐群, Telegram科技群, Telegram财经群, Telegram加密货币群, Telegram投资群, Telegram股票群, Telegram新闻群, Telegram编程群, Telegram IT群, Telegram开发者群, Telegram设计群, Telegram健身群, Telegram旅游群, Telegram英语学习群, Telegram留学群, Telegram日语学习群, Telegram韩语学习群, Telegram粤语群, Telegram招聘群, Telegram求职群, Telegram创业群, Telegram副业群, Telegram区块链群, Telegram NFT群, Telegram比特币群, Telegram以太坊群, Telegram Defi群, Telegram AI群, Telegram人工智能群, Telegram写作群, Telegram书籍分享群, Telegram心理学群, Telegram影视群, Telegram剧集群, Telegram短视频群, Telegram社交媒体群, Telegram公众号群, Telegram营销群, Telegram淘宝群, Telegram电商群, Telegram跨境电商群, Telegram二手交易群, Telegram免费资源群, Telegram软件分享群, Telegram黑科技群, Telegram工具分享群, TelegramPython群, Telegram Java群, Telegram C++群, Telegram PHP群, Telegram前端开发群, Telegram UI设计群, Telegram UX设计群, Telegram摄影群, Telegram无人机群, Telegram汽车群, Telegram摩托车群, Telegram宠物群, Telegram养生群, Telegram心理健康群, Telegram冥想群, Telegram瑜伽群, Telegram健身打卡群, Telegram跑步群, Telegram骑行群, Telegram电竞群, Telegram手游群, Telegram主机游戏群, TelegramSteam群, TelegramSwitch群, TelegramPS5群, TelegramXbox群, TelegramB站群, Telegram抖音群, Telegram快手群, Telegram微博群, Telegram知乎群, Telegram Reddit群, Telegram Twitter群, Telegram Facebook群, Telegram Instagram群, Telegram Discord群, Telegram WhatsApp群"
 url: "TelegramQun.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://telegramqun.github.io/" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "We Invest Solely In Disruptive Innovation!"
+sidebar-about-description: "2025年最佳Telegram热门群组大全，优质免费电报群资源、技术、知识推荐！"
 sidebar-avatar: /img/ValueInvest.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -40,6 +40,12 @@ anchorjs: true                          # if you want to customize anchor. check
 # from PR#40, to support local preview for Jekyll 3.0
 gems: [jekyll-paginate]
 
+#collections:
+#  telegrams:
+#    output: true
+#    permalink: /telegrams/:name/
+
+
 plugins:
   - jekyll-paginate
 paginate: 5   # 每页显示 5 篇文章（可以修改）
@@ -54,6 +60,8 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
+  hard_wrap: false
+  parse_block_html: true
 
 
 
