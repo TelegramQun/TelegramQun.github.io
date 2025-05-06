@@ -1,5 +1,4 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "jekyll"
-gem "jekyll-paginate"
-gem 'faraday-retry'
+gem 'github-pages', group: :jekyll_plugins
+
