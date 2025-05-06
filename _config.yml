@@ -30,9 +30,6 @@ RSS: false
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 5 # 每页显示的文章数量
-paginate_path: "/page:num/"
-baseurl: "" # 如果项目部署在根目录，保持为空
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
