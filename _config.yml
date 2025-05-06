@@ -50,7 +50,6 @@ plugins:
 paginate: 5   # 每页显示 5 篇文章（可以修改）
 paginate_path: "/page:num/"  # 分页 URL 规则
 
-
 # Markdown settings
 # replace redcarpet to kramdown,
 # although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
